@@ -1,4 +1,4 @@
-# Sistema-de-manejo-de-inventario
+# Sistema de Gestion de Inventario
 
 ## Descripción General
 Este proyecto es un Sistema de Gestión de Inventario desarrollado en Python. Utiliza una arquitectura hexagonal para separar responsabilidades y mejorar el mantenimiento. El sistema permite a los usuarios gestionar productos, incluyendo agregar, actualizar, eliminar y consultar información de productos.
