@@ -38,7 +38,7 @@ El proyecto está organizado en varios directorios, cada uno con un propósito e
 
 3. Ejecuta la aplicación:
    ```
-   python adapters/gui/tkinter_app.py
+   python main.py
    ```
 
 ## Uso
